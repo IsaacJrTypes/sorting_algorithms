@@ -70,7 +70,6 @@
 | Test Case             | Observations                                                                                              |
 | --------------------- | --------------------------------------------------------------------------------------------------------- |
 | Small Random Numbers  | Testing small random array of integers. Performed well over the other two speed tests.                    |
-| la Ascending Array    | Testing an array already sorted in ascending order. Optimized won performance test.                       |
 | Large Random Numbers  | Testing Large random array of integers. Performed worst over the other two speed tests.                   |
 | Random Size of Arrays | Testing random size of array with random integers. Performed right between the the other two speed tests. |
 | Stability             | Testing algorithms ability to retain relative order of repeated numbers. Passed stability test.           |
